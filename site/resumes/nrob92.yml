@@ -14,6 +14,11 @@ basic_info:
     # focus
     focus: Being happy and learning new things.
     
+    #experience
+    HTML: 6 months self taught.
+    CSS: 6 months self taught.
+    JAVASCRIPT: 6 months self taught.
+    
     # You have 1 paragraph to make a great impression, summarize your career.
     summary: |
      Ive been teaching myself how to code for the past 6 months. I am now taking it a step further by joining 4 geeks academy bootcamp.
