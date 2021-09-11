@@ -1,8 +1,8 @@
 template: "online-cv"
 skin: "orange"
 
-# Personal Information
-basic_info:
+    #Github
+    Github: Nrob92
 
     # Your full name
     first_name: Nicholas
